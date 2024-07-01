@@ -1,0 +1,160 @@
+img{
+    height: 500px;
+    width: 1000px;
+    position:absolute;
+    
+}
+.firstcircle {
+    border: 2px dotted rgb(235, 233, 233);
+    height: 450px;
+    width: 850px;
+    position:absolute;
+    margin-top: 20px;
+    margin-left: 60px;
+    display: block;
+    border-radius:100%; 
+   
+}
+.secondcircle {
+    border: 2px dotted rgb(235, 233, 233);
+    height: 400px;
+    width: 800px;
+    position:absolute;
+    margin-top: 50px;
+    margin-left: 85px;
+    border-radius:100%; 
+}
+.thirdcircle{
+    border: 2px dotted rgb(235, 233, 233);
+    height: 350px;
+    width: 750px;
+    position:absolute;
+    border-radius:100%; 
+    margin-top: 80px;
+    margin-left: 110px;
+}
+.fourthcircle{
+    border: 2px dotted rgb(235, 233, 233);
+    height: 300px;
+    width: 700px;
+    position:absolute;
+    border-radius:100%; 
+    margin-top: 110px;
+    margin-left: 130px;
+}
+.fifthcircle{
+    border: 2px dotted rgb(235, 233, 233);
+    height: 240px;
+    width: 640px;
+    position:absolute;
+    border-radius:100%; 
+    margin-top: 140px;
+    margin-left: 150px;
+}
+.sixthcircle{
+    border: 2px dotted rgb(235, 233, 233);
+    height: 200px;
+    width: 600px;
+    position:absolute;
+    border-radius:100%; 
+    margin-top: 160px;
+    margin-left: 160px;
+}
+.seventhcircle{
+    border: 2px dotted rgb(235, 233, 233);
+    height: 150px;
+    width: 550px;
+    position:absolute;
+    border-radius:100%; 
+    margin-top: 180px;
+    margin-left: 180px;
+}
+.eightcircle{
+    border: 2px dotted rgb(235, 233, 233);
+    height: 100px;
+    width: 450px;
+    position:absolute;
+    border-radius:100%; 
+    margin-top: 210px;
+    margin-left: 200px;
+}
+.eightcircle img{
+    border-radius: 1000%;
+    position: absolute;
+    width:90px ;
+    height: 80px;
+    margin-left: 80px;
+    margin-top: 10px; 
+
+}
+.seventhcircle img{
+    border-radius: 1000%;
+    position:absolute;
+    width: 40px ;
+    height: 40px;
+    margin-left: 200px;
+    margin-top: 10px;    
+    z-index: 1;
+}
+.sixthcircle img{
+    border-radius: 1000%;
+    position:absolute;
+    width: 35px ;
+    height: 35px;
+    margin-left: 300px;
+    margin-top: 2px;
+    z-index: 1;
+}
+.fifthcircle img{
+    border-radius: 1000%;
+    position:absolute;
+    width: 40px ;
+    height: 40px;
+    margin-left: 250px;
+    z-index: 1;
+}
+a img{
+    border-radius: 1000%;
+    position:absolute;
+    width: 18px ;
+    height: 18px;
+    margin-left: 380px;
+    margin-top: 145px;
+}
+.fourthcircle img{
+    border-radius: 1000%;
+    position:absolute;
+    width: 40px ;
+    height: 40px;
+    margin-left: 400px;
+    margin-top:15px;
+    z-index: 1;
+}
+.thirdcircle img{
+    border-radius: 1000%;
+    position:absolute;
+    width: 40px ;
+    height: 40px;
+    margin-left: 400px;
+    margin-top:10px;
+    z-index: 1;
+}
+.secondcircle img{
+    border-radius: 1000%;
+    position:absolute;
+    width: 40px ;
+    height: 40px;
+    margin-left: 400px;
+    margin-top:10px;
+    z-index: 1;
+}
+.firstcircle img{
+    border-radius: 1000%;
+    position:absolute;
+    width: 40px ;
+    height: 40px;
+    margin-left: 500px;
+    margin-top:10px;
+    z-index: 1;
+}
+
